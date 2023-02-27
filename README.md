@@ -9,7 +9,7 @@ Pro zapnutí optimalizace CFLAGS += -DOPTIMALIZATION
 
 Po změně nastavení Makefile je nutné znovu přeložit VŠECHNY soubory (příkaz: make remake)
 
-################################################################################################################################
+---
 
 File:       README.md
 Case:       IJC-DU1, příklad a) b), 29. 2. 2020
